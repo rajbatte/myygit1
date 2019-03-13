@@ -1,7 +1,4 @@
 Hello this is file from master branch
 First modified
-<<<<<<< HEAD
 no
-=======
-hello this is from branch2
->>>>>>> branch2
+from branch1
